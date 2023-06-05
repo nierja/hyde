@@ -1,17 +1,33 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      pygments
+plugins:
+  - jekyll-gist
+  - jekyll-coffeescript
+  - jekyll-seo-tag
+  - jekyll-paginate
+
+# Enable safe mode
+safe: true
+
+# Whitelist plugins under safe mode.
+# Note that `some-other-jekyll-plugin` is not listed here. Therefore,
+# it will not be loaded under safe mode.
+whitelist:
+  - jekyll-gist
+  - jekyll-coffeescript
+  - jekyll-seo-tag
+  - jekyll-paginate
+
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
 title:            Hyde
 tagline:          'A Jekyll theme'
 description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
+url:              https://www.jakubnierostek.cz/
 
 author:
   name:           'Mark Otto'
