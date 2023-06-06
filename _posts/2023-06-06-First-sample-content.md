@@ -13,7 +13,6 @@ Shopping list
 * Pears
 * Bananas
 * <a href="www.jakubnierostek.cz">This website</a>
-* [www.jakubnierostek.cz]www.jakubnierostek.cz
 
 ### Hyde features
 
