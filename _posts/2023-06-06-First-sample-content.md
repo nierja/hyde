@@ -1,6 +1,7 @@
 ---
 layout: post
 title: First Sample Content
+published: false
 ---
 
 Perex intro.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: First Sample Content
+published: false
 ---
 
 The model's error function can have the following form:
