@@ -2,6 +2,9 @@
 layout: page
 title: About
 ---
+# TODO: Add info about myself
+# TODO: Add photo
+# TODO: Add contacts and relevant hyperlinks (BT, MT)
 
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
