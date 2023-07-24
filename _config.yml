@@ -44,3 +44,10 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/nierja
+
+# Photo gallery
+# defaults:
+#   - scope:
+#       path: "assets/imgages"
+#     values:
+#       image: true
