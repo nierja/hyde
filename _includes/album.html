@@ -1,0 +1,16 @@
+<div id="{{include.albumname}}">
+
+    {% for image in site.static_files %}
+        {% if image.path contains 'assets/images/trial_album' and image.path contains include.albumname %}
+            <a href="{{ image.path }}" data-sub-html="{% exiftag image_description, , {{ image.path }} %}" >
+                <img src="assets/images/thumbnails" />
+            </a>
+        {% endif %}
+    {% endfor %}
+
+</div>
+<script>
+    $('#{{include.albumname}}').lightGallery({
+    thumbnail:true
+});
+</script>

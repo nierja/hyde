@@ -27,7 +27,7 @@ permalink:        pretty
 title:            Jakub's Home Page
 tagline:          
 description:      > 
-                  Jakub Nierostek's personal home page and blog concerning all things interesting. Built with <a href="http://jekyllrb.com" target="_blank">Jekyll</a>. Find the source code <a href="https://github.com/nierja/hyde" target="_blank">here</a>.
+                  Jakub Nierostek's personal home page and blog. Built with <a href="http://jekyllrb.com" target="_blank">Jekyll</a>. Find the source code <a href="https://github.com/nierja/hyde" target="_blank">here</a>.
 url:              https://www.jakubnierostek.cz/
 baseurl:          /
 # 'Personal home page and blog of Jakub Nierostek. Built with <a href="http://jekyllrb.com" target="_blank">Jekyll</a>. Find the source <a href="https://github.com/nierja/hyde" target="_blank">here</a>.'
