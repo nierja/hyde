@@ -26,3 +26,5 @@ In addition to the core Hyde theme, I've integrated the following extensions and
 1. **MathJax Support:** Complex mathematical equations are rendered seamlessly using [MathJax](http://webdocs.cs.ualberta.ca/~zichen2/blog/coding/setup/2019/02/17/how-to-add-mathjax-support-to-jekyll.html), allowing for the inclusion of LaTeX equations and formulas.
 
 2. **Google Analytics:** To gain valuable insights into incoming web traffic and visitor behavior, I've integrated [Google Analytics](https://michaelsoolee.com/google-analytics-jekyll/).
+
+3. **Emojis:** Unicode emoticons are enabled by the [jemoji](https://github.com/jekyll/jemoji) plugin.
