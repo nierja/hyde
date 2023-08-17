@@ -5,8 +5,6 @@
 [![GitHub Pages](https://img.shields.io/badge/Hosting-GitHub%20Pages-orange.svg)](https://pages.github.com/)
 [![License](https://img.shields.io/badge/license-MIT-red.svg)](https://github.com/nierja/hyde/blob/master/LICENSE)
 
-## About
-
 This webpage was built using [Hyde](https://jekyllthemes.io/theme/hyde), a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. Based on the elegant [Poole](http://getpoole.com) framework, the Jekyll butler.
 
 ## Features

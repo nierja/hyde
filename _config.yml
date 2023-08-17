@@ -6,6 +6,7 @@ plugins:
   - jekyll-coffeescript
   - jekyll-seo-tag
   - jekyll-paginate
+  - jemoji
 
 # Enable safe mode
 safe: true
