@@ -2,32 +2,7 @@
 layout: page
 title: About
 ---
-# TODO: Add info about myself
-# TODO: Add photo
-# TODO: Add contacts and relevant hyperlinks (BT, MT)
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Hello there! I'm Jakub Nierostek, a student immersing myself in the realms of computer science and physical chemistry. Currently, I'm pursuing a degree in computer science at the Czech Technical University in Prague (CTU), and I also hold a master's degree in physical chemistry from Charles University (CUNI). During my master's, I successfully predicted chemical toxicity using deep learning, thus fusing my passion for both chemistry and computers.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+But why this blog? I view writing as a potent tool for clarifying my thoughts. And, what's the blog about? It revolves around topics that captivate my interest. Beyond my studies, I derive immense pleasure from the world of classical music. To maintain a clear mind and a healthy body, I enjoy running, occasional hiking, and biking. My other interests encompass natural sciences (chemistry, programming), as well as reading anything from the realm of fantasy, politics and philosophy of religion.
